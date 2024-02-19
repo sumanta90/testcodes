@@ -1,0 +1,77 @@
+{
+    "nodes":[
+
+        {
+            "node_id": "1",
+            "data": {
+                "type": "extract",
+                "file_name": "Trial_Balance_Report.csv",
+                "file_path": "Trial_Balance_Report.csv"
+            }
+        },
+        {
+            "node_id": "2",
+            "data": {
+                "type": "transform",
+                "operation_name": "sum",
+                "column_name": "opening"
+            }
+        },
+        {
+            "node_id": "3",
+            "data": {
+                "type": "transform",
+                "operation_name": "filter",
+                "column_name": "fldt",
+                "operation_formula": "==",
+                "operation_value": "1"
+            }
+        },
+        {
+            "node_id": "4",
+            "data": {
+                "type": "transform",
+                "operation_name": "sum",
+                "column_name": "closing"
+            }
+        },
+        {
+            "node_id": "5",
+            "data": {
+                "type": "load",
+                "file_name": "op1.csv",
+                "file_path": "op1.csv"
+            }
+        },
+        {
+            "node_id": "6",
+            "data": {
+                "type": "load",
+                "file_name": "op2.csv",
+                "file_path": "op2.csv"
+            }
+        }
+    ],
+    "edges":[
+        {
+            "source": "1",
+            "target": "2"
+        },
+        {
+            "source": "1",
+            "target": "3"
+        },
+        {
+            "source": "3",
+            "target": "4"
+        },
+        {
+            "source": "4",
+            "target": "5"
+        },
+        {
+            "source": "2",
+            "target": "6"
+        }
+    ]
+}
