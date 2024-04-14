@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T17:43:55.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4egjvkCQx-LWo99tULlH" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T17:44:48.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="38u8KiXPVw7A7-Rh0XdX" version="24.2.0" type="github">
   <diagram name="Phase 1 - User relation" id="pinA-xnLV-lmTF-I2ISv">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,13 +42,13 @@
         <mxCell id="thPqZB8-MS7v1s2aoia8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-3" target="thPqZB8-MS7v1s2aoia8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-3" value="mandatory training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-3" value="mandatory training" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="761" y="294" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-4" value="short term" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-4" value="short term" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="960" y="244" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-5" value="long term" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-5" value="long term" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="960" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thPqZB8-MS7v1s2aoia8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-10" target="thPqZB8-MS7v1s2aoia8-1">
@@ -135,13 +135,13 @@
         <mxCell id="thPqZB8-MS7v1s2aoia8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-21" target="thPqZB8-MS7v1s2aoia8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-21" value="Other Trainings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-21" value="Other Trainings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="761" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-22" value="Short term" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-22" value="Short term" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="960" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-23" value="One day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-23" value="One day" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="960" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thPqZB8-MS7v1s2aoia8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-28" target="thPqZB8-MS7v1s2aoia8-42">
@@ -184,10 +184,10 @@
         <mxCell id="thPqZB8-MS7v1s2aoia8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-39" target="thPqZB8-MS7v1s2aoia8-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-39" value="Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-39" value="Report" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="760" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thPqZB8-MS7v1s2aoia8-40" value="Progress Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thPqZB8-MS7v1s2aoia8-40" value="Progress Report" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="960" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="thPqZB8-MS7v1s2aoia8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="thPqZB8-MS7v1s2aoia8-42" target="thPqZB8-MS7v1s2aoia8-39">
